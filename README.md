@@ -1,6 +1,7 @@
 ### Hi, I'm Keap, currently 19 years old student in computer science, on this github I share my small open source projects, have fun browsing it 
 
-![](https://skillicons.dev/icons?i=discord)
+[![](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev)
+
 -  My Discord is _keap
 
 ## 🌍 Main languages:

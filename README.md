@@ -1,6 +1,7 @@
 ### Hi, I'm Keap, currently 19 years old student in computer science, on this github I share my small open source projects, have fun browsing it 
 
--  My Discord is "_keap
+![](https://skillicons.dev/icons?i=discord)
+-  My Discord is _keap
 
 ## 🌍 Main languages:
 
@@ -11,14 +12,14 @@
   ![](https://skillicons.dev/icons?i=react,nextjs)
   
 ## 🌍 Mastered Languages:
-  ![](https://skillicons.dev/icons?i=java,c,php)
+  ![](https://skillicons.dev/icons?i=c,php,js)
 
 ## 💾 Data Storage:
   ![](https://skillicons.dev/icons?i=mysql,mongodb)
 
 ## ⚙️ Utils:
 
-  ![](https://skillicons.dev/icons?i=figma,git,ai)
+  ![](https://skillicons.dev/icons?i=figma,git,vscode)
 
 
 ## 🔧 System:

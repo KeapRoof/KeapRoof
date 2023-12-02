@@ -8,9 +8,9 @@
 
   ![](https://skillicons.dev/icons?i=html,css,python,java)
 
-## ⚙ Main Frameworks:
+## ⚙ Main Framework:
 
-  ![](https://skillicons.dev/icons?i=react,nextjs)
+  ![](https://skillicons.dev/icons?i=react)
   
 ## 🌍 Mastered Languages:
   ![](https://skillicons.dev/icons?i=c,php,js)

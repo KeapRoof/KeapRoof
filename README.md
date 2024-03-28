@@ -10,7 +10,8 @@
 
 ## ⚙ Main Framework:
 
-  ![](https://skillicons.dev/icons?i=react)
+  ![](https://skillicons.dev/icons?i=react,vue,symfony)
+
   
 ## 🌍 Mastered Languages:
   ![](https://skillicons.dev/icons?i=c,php,js)
@@ -20,7 +21,7 @@
 
 ## ⚙️ Utils:
 
-  ![](https://skillicons.dev/icons?i=figma,git,vscode)
+  ![](https://skillicons.dev/icons?i=figma,git,vscode,androidstudio)
 
 
 ## 🔧 System:

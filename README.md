@@ -6,26 +6,26 @@
 
 ## 🌍 Main languages:
 
-  ![](https://skillicons.dev/icons?i=html,css,python,java)
+  ![](https://skillicons.dev/icons?i=html,css,js,python,java)
 
 ## ⚙ Main Framework:
 
-  ![](https://skillicons.dev/icons?i=react,vue,symfony)
+  ![](https://skillicons.dev/icons?i=react,angular,vue,symfony)
 
   
 ## 🌍 Mastered Languages:
-  ![](https://skillicons.dev/icons?i=c,php,js)
+  ![](https://skillicons.dev/icons?i=c,php)
 
 ## 💾 Data Storage:
-  ![](https://skillicons.dev/icons?i=mysql,mongodb)
+  ![](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
 
 ## ⚙️ Utils:
 
-  ![](https://skillicons.dev/icons?i=figma,git,vscode,androidstudio)
+  ![](https://skillicons.dev/icons?i=figma,git,vscode,webstorm,androidstudio,docker,kubernetes)
 
 
 ## 🔧 System:
- ![](https://skillicons.dev/icons?i=linux,nginx)
+ ![](https://skillicons.dev/icons?i=apple,windows,linux,nginx)
 
 
 ## Mes stats

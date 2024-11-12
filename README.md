@@ -6,11 +6,11 @@
 
 ## 🌍 Main languages:
 
-  ![](https://skillicons.dev/icons?i=html,css,js,python,java,c,php)
+  ![](https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,php)
 
 ## ⚙ Main Framework:
 
-  ![](https://skillicons.dev/icons?i=react,angular,vue,symfony)
+  ![](https://skillicons.dev/icons?i=react,angular,vue,symfony,spring)
 
 ## 💾 Data Storage:
   ![](https://skillicons.dev/icons?i=mysql,mongodb,postgres)

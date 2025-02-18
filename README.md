@@ -1,23 +1,20 @@
 ### Hi, I'm Keap, currently 20 years old student in computer science, on this github I share my small open source projects, have fun browsing it 
 
 
-
--  My Discord is _keap 
-
 ## 🌍 Main languages:
 
   ![](https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,php)
 
 ## ⚙ Main Framework:
 
-  ![](https://skillicons.dev/icons?i=react,angular,vue,symfony,spring)
+  ![](https://skillicons.dev/icons?i=react,angular,vue,symfony,spring,fastapi)
 
 ## 💾 Data Storage:
-  ![](https://skillicons.dev/icons?i=mysql,mongodb,postgres)
+  ![](https://skillicons.dev/icons?i=mysql,mongodb,postgres,neo4j)
 
 ## ⚙️ Utils:
 
-  ![](https://skillicons.dev/icons?i=figma,git,vscode,webstorm,androidstudio,docker,kubernetes)
+  ![](https://skillicons.dev/icons?i=figma,git,vscode,webstorm,idea,postman,androidstudio,docker,kubernetes)
 
 
 ## 🔧 System:

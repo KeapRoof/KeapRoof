@@ -1,21 +1,25 @@
-### Hi, I'm Keap, currently 22 years old student in computer science, on this github I share my small open source projects, have fun browsing it 
+![](KeapRoof-glass-card.png)
 
+### Hey, I'm Keap - 22 y/o CS student sharing open-source projects. Feel free to explore!
 
-## 🌍 Main languages:
+---
 
-  ![](https://skillicons.dev/icons?i=html,css,js,ts,python,java)
+## 🌍 Languages
 
-## ⚙ Main Framework:
+![](https://skillicons.dev/icons?i=html,css,js,ts,python,java)
 
-  ![](https://skillicons.dev/icons?i=angular,vue,spring,fastapi)
+## ⚙️ Frameworks
 
-## 💾 Data Storage:
-  ![](https://skillicons.dev/icons?i=mysql,mongodb,postgres,neo4j)
+![](https://skillicons.dev/icons?i=angular,vue,spring,fastapi)
 
-## ⚙️ Utils:
+## 💾 Databases
 
-  ![](https://skillicons.dev/icons?i=figma,git,vscode,webstorm,idea,postman,androidstudio,docker,kubernetes)
+![](https://skillicons.dev/icons?i=mysql,mongodb,postgres,neo4j)
 
+## 🛠️ Tools
 
-## 🔧 System:
- ![](https://skillicons.dev/icons?i=linux,apple)
+![](https://skillicons.dev/icons?i=figma,git,idea,postman,docker,kubernetes)
+
+## 🔧 Systems
+
+![](https://skillicons.dev/icons?i=linux,apple)

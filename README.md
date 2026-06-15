@@ -1,4 +1,4 @@
-![](KeapRoof-glass-card.png)
+<img src="KeapRoof-glass-card.png" alt="KeapRoof" width="300" />
 
 ### Hey, I'm Keap - 22 y/o CS student sharing open-source projects. Feel free to explore!
 
